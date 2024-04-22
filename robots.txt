@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alex-folio.github.io/sitemap.xml
+Sitemap: https://shihkual-folio.github.io/sitemap.xml
